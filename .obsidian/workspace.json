@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "f9eaf1ff2f28951f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7eedf971c61578b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc0626f2bc750f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/2021-08-26-welcome/index.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d10da2f86fb1c21f",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c8d01ce918927f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6728b46e593229a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf7539e2ef2dcfab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5972d850d7dc2d4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c659d824cc7c56f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a06d36bba61d48b",
+    "type": "split",
+    "children": [
+      {
+        "id": "22bbb07d90d3f152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79c387855a699abf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/2021-08-26-welcome/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "081973df6121cab8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blog/2021-08-26-welcome/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6af2944f2b7bedfb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2edd8697a60af3ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "blog/2021-08-26-welcome/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b6728b46e593229a",
+  "lastOpenFiles": [
+    "2022-10-19.md",
+    "README.md",
+    "static/img/logo.svg",
+    "static/img/docusaurus.png",
+    "src/pages/markdown-page.md",
+    "blog/2019-05-28-first-blog-post.md"
+  ]
+}

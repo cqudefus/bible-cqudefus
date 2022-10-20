@@ -23,3 +23,7 @@ A blog post folder can be convenient to co-locate blog post images:
 The blog supports tags as well!
 
 **And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+
+We as a team shouw sdf I do not idea how to go about this me me me uthini liyolo the code on this is making me angry because i dont know to spell 
+
+Help me please when it comes to spelling because i cant spell for jack. 
