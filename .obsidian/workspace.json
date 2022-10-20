@@ -14,8 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "blog/2021-08-26-welcome/index.md",
-                "mode": "source",
-                "source": true
+                "mode": "source"
               }
             }
           }
@@ -62,14 +61,6 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "c659d824cc7c56f9",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
               "state": {}
             }
           }
@@ -141,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 704.5
   },
   "ribbon": {
     "mostRecentAction": ""

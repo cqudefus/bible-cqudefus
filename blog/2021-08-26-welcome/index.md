@@ -24,8 +24,14 @@ The blog supports tags as well!
 
 **And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
 
-We as a team shouw sdf I do not idea how to go about this me me me uthini liyolo the code on this is making me angry because i dont know to spell 
+We as a team shouw sdf I do not idea how to go about this me me me uthini liyolo the code on this is making me angry because i don't know to spell 
 
 Help me please when it comes to spelling because i cant spell for jack. 
 
-Texting for product owners on how they will go about things 
+Texting for product owners on how they will go about things asdf 
+
+Amen man alkdfasdf I love you i Love you i Love uou aklja 
+lkjadsf
+dfalkdfjasldfk sdj fasdf
+fsdlkfjasdfkj sdf
+int main 
