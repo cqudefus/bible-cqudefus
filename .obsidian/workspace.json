@@ -11,11 +11,8 @@
             "id": "bc0626f2bc750f00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/2021-08-26-welcome/index.md",
-                "mode": "source"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2021-08-26-welcome/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/2021-08-26-welcome/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blog/2021-08-26-welcome/index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,6 +132,7 @@
   },
   "active": "bc0626f2bc750f00",
   "lastOpenFiles": [
+    "blog/2021-08-26-welcome/index.md",
     "2022-10-19.md",
     "README.md",
     "static/img/logo.svg",
