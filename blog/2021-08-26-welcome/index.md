@@ -27,3 +27,5 @@ The blog supports tags as well!
 We as a team shouw sdf I do not idea how to go about this me me me uthini liyolo the code on this is making me angry because i dont know to spell 
 
 Help me please when it comes to spelling because i cant spell for jack. 
+
+Texting for product owners on how they will go about things 
