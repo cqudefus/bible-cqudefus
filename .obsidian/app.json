@@ -1,4 +1,5 @@
 {
   "spellcheck": true,
-  "legacyEditor": true
+  "legacyEditor": false,
+  "livePreview": true
 }
