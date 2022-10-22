@@ -56,7 +56,7 @@
     },
     "blog/2021-08-26-welcome/index.md": {
       "size": 1067,
-      "tags": 3,
+      "tags": 4,
       "links": 1
     },
     "blog/2019-05-29-long-blog-post.md": {
@@ -79,7 +79,7 @@
     "/": {
       "Refactor": 0,
       "Create": 0,
-      "Link": 0,
+      "Link": 1,
       "Expand": 0
     }
   },
@@ -94,7 +94,7 @@
       "6": 0,
       "7": 0,
       "8": 0,
-      "9": 0,
+      "9": 1,
       "10": 0,
       "11": 0,
       "12": 0,
@@ -119,7 +119,7 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 0
+      "Sun": 1
     }
   },
   "recentCommits": {
@@ -127,7 +127,9 @@
       "Expanded": [],
       "Created": [],
       "Renamed": [],
-      "Tagged": [],
+      "Tagged": [
+        "<a class=\"internal-link\" href=\"blog/2021-08-26-welcome/index.md\"> index </a>"
+      ],
       "Refactored": [],
       "Deleted": [],
       "Linked": [],
