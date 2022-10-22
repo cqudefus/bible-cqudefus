@@ -81,13 +81,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,19 +120,39 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300,
     "collapsed": true
+=======
+    "width": 200
+>>>>>>> 03889bbf68b70b220b56a1e814b573dc2794657d
   },
   "ribbon": {
     "mostRecentAction": ""
   },
+<<<<<<< HEAD
   "active": "02e26e0cfd26c7d3",
   "lastOpenFiles": []
+=======
+  "active": "bc0626f2bc750f00",
+  "lastOpenFiles": [
+    "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
+    "blog/2019-05-28-first-blog-post.md",
+    "2022-10-19.md",
+    "README.md",
+    "blog/2021-08-26-welcome/index.md",
+    "static/img/logo.svg",
+    "static/img/docusaurus.png",
+    "src/pages/markdown-page.md"
+  ]
+>>>>>>> 03889bbf68b70b220b56a1e814b573dc2794657d
 }
