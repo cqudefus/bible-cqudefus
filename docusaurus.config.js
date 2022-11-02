@@ -8,17 +8,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Cqudefus Bible',
   tagline: 'How we go about things at Cqudefus',
-  url: 'https://bible.cqudeufs.com',
+  url:'https://cqudefus.github.io/bible-cqudefus/',  
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cqudefus', // Usually your GitHub org/user name.
   projectName: 'cqudefus-bible', // Usually your repo name.
-
+  
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
