@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Cqudefus Bible',
   tagline: 'How we go about things at Cqudefus',
-  url:'https://cqudefus.github.io',  
-  baseUrl: '/',
+  url:'https://cqudefus.github.io/',  
+  baseUrl: '/bible-cqudefus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
