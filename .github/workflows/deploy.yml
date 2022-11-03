@@ -1,33 +1,23 @@
 # .github/workflows/deploy.yml
 
-name: GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
       - master
-    paths:
-      - '.github/workflows/deploy.yml'
-      - 'website/**'
-  pull_request:
-
+    
 jobs:
   deploy:
     runs-on: ubuntu-22.04
-    permissions:
-      contents: write
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-    defaults:
-      run:
-        working-directory: website
     steps:
       - uses: actions/checkout@v3
-
+      
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
           node-version: '14'
+          cache: yarn
 
       - run: yarn install --frozen-lockfile
       - run: yarn build
