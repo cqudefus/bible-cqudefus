@@ -214,8 +214,8 @@ const sharePost = _async_ () => {
 
 When you are writing code, you should avoid writing methods that perform “side effects.” A side effect occurs when a way performs multiple tasks or writes something to the disk or the database (either intentionally or not). When you are writing methods that perform side effects, it gets difficult to track where the side effects are taking place. This leads to unstructured code and makes the code difficult to read and modify. When you write code with side effects, you make your code harder to read and maintain. As a result, engineers must spend more time debugging and fixing bugs, which increases the time and cost of the project.
 
-## **Spread Operator**
+%%## **Spread Operator**
 
-Storing and accessing data in JavaScript is easy. You can use variables to store data and objects to keep.
+Storing and accessing data in JavaScript is easy. You can use variables to store data and objects to keep.%%
 
-TODO
+%%Todo%%
