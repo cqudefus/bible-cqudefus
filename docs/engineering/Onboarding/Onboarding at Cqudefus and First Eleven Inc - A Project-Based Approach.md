@@ -1,0 +1,5 @@
+As a new developer at Cqudefus or First Eleven Inc., you will undergo a project-based onboarding process tailored to your experience level. This project will last up to three months for permanent employees or up to one month for contract employees. Contract employees should be able to adapt quickly to our processes, but this timeline may vary depending on individual circumstances.
+
+During this project, you will learn about our release week and white space setup and will have the opportunity to see these processes from a distance. You will also be expected to draft an essay about your experience and how it could be improved, and you can choose whether to share your essay publicly. You will also be asked to review your work and summarise your overall experience.
+
+By completing this project, you will gain a better understanding of our company culture and processes and will be able to contribute to our continuous improvement efforts.
