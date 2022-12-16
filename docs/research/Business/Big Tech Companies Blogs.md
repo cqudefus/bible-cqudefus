@@ -1,0 +1,15 @@
+Good Read to get yourself in sync with what is happening in the world of Teach. 
+
+[Netflix](https://netflixtechblog.com)
+[Uber](https://eng.uber.com)
+[Airbnb](https://medium.com/airbnb-engineering/airbnb-engineering-infrastructure/home)
+[Discord](https://discord.com/blog)
+[Twitter](https://blog.twitter.com/engineering/en_us)
+[Instagram](https://instagram-engineering.com)
+[Hotstar](https://blog.hotstar.com)
+[Myntra](https://medium.com/myntra-engineering)
+[Swiggy](https://bytes.swiggy.com)
+[Flipkart](https://tech.flipkart.com)
+[Pinterest](https://medium.com/pinterest-engineering)
+[Stripe](https://stripe.com/blog/engineering)
+[LinkedIn](https://engineering.linkedin.com/blog)
