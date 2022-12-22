@@ -1,0 +1,5 @@
+Shared leadership is a style of leadership in which the leader's primary role is to guide the team towards a common goal, rather than giving orders from a position of authority. In a shared leadership model, the hierarchy is more informal and the leader is seen as a member of the team, rather than a boss.
+
+Shared leaders are known for their transparency and willingness to share knowledge with their team. They encourage the sharing of ideas and create a safe and secure environment for collaboration. Shared leadership also involves delegating responsibility throughout the organization and empowering team members to make decisions without always needing approval from a supervisor.
+
+The main benefit of shared leadership is that a capable and motivated team can achieve more in a shorter period of time when they are given more flexibility and are not bogged down by bureaucracy. As a shared leader, it is important to encourage collaboration and provide regular feedback to the team. During retrospectives, it is helpful to ask questions about what can be changed and what can be removed from the process to improve efficiency.
