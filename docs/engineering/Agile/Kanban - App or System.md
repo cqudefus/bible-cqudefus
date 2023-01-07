@@ -1,5 +1,3 @@
-## Test
-
 | **Board**       |  **Branch**   | **Explained**                                                     | **Notes** |
 | --------------- | :-----------: | ----------------------------------------------------------------- | --------- |
 | **Backlog**     |               | Upcoming tasks                                                    |           |
@@ -41,34 +39,34 @@ Documentation tickets must also go thru QA.
 
 Set some git request rules (you can set requirements before the user sends PR)
 
-- PR Title
-  - Jira number/issue number with Description
+**PR Title**
+
+Jira number/issue number with Description
 
 # Jira Explained
 
-- Epic – Large portion of work
-  - Example: **Building a website**
-- Story / Task [[Ma1]](#\_msocom_1) – Smaller portion of work
-  - Example: **Login Page, Navigation Menu**
-- Sub-Task – All the tasks related to completing the Story/Task
-  - Example: UI Design, API creation, Front End
-- Bug
-  - Example:
+**Epic:** Large portion of work
+
+- Example: **Building a website**
+- Story / Task [[Ma1]](#\_msocom_1) – Smaller portion of work(**Login Page, Navigation Menu**)
+- Sub-Task – All the tasks related to completing the Story/Task(**UI Design, API creation, Front End**)
+- Bug: Something that is not working as expected
 
 ## Building an MVP
 
-- Building an MVP requires a different mindset, not what we are used to as professionals. An MVP is evaluating the hypnosis of the concept
-
+Building an MVP requires a different mindset, not what we are used to as professionals. An MVP is evaluating the hypnosis of the concept.
 Building this MVP can be a few technologies. It is just us evaluating the hypnosis of the concept.
 
 # Agile
 
 **Agile means continuous incremental improvement through small and frequent releases.**
 
-- Each team must set its value and principal in how they want to work
-  - These will help with decision-making.
-  - Each scrum team member must consider these values and principles when making decisions.
-- For speed and collaboration
+Each team must set its value and principal in how they want to work
+
+- These will help with decision-making.
+- Each scrum team member must consider these values and principles when making decisions.
+
+For speed and collaboration
 
 # Project Management
 
@@ -76,26 +74,40 @@ How we will run our project depends on the application or software, or team
 
 - Project Management will use: **Lean Six Sigma**
 - Project development, we will incorporate the below PM methodologies
-- **Agile**
-  - Each team must set its value and principal in how they want to work
-    - These will help with decision-making.
-    - Each scrum team member must consider these values and principles when making decisions.
-  - For speed and collaboration.
-- **Scrum**
-  - Delivery in a sprint
-- **Lean** **development**
-  - Minimise waste, focus on what matters, and develop what brings value to the user.
-- **Kanban**
-  - Minimise work in progress
-  - Supply visibility to the team.
-  - One task per time. No multitasking is involved.  %%//Remember to breakdown tasks into smaller tasks%%
-  - You cannot work on everything at a time  %%//the is no such thing as multitasking, only switch-tasking.%%
-  - **Six Sigma**
-    - Improve current product & progress to meet customer needs
-    - Process improvement and removing defects
-- **Adaptive**
-  - Make sure the is a live version of the product. If something is wrong with v3, then have v2 in production.
-  - The whole point of adaptive is that the user still uses the product despite small bugs. Just make sure the product is live and supplying value to the user
+
+**Agile**
+
+Each team must set its value and principal in how they want to work
+
+- These will help with decision-making.
+- Each scrum team member must consider these values and principles when making decisions.
+
+For speed and collaboration.
+
+**Scrum**
+
+Delivery in a sprint
+
+**Lean** **development**
+
+- Minimise waste, focus on what matters, and develop what brings value to the user.
+
+**Kanban**
+
+- Minimise work in progress
+- Supply visibility to the team.
+- One task per time. No multitasking is involved.  %%//Remember to breakdown tasks into smaller tasks%%
+- You cannot work on everything at a time  %%//the is no such thing as multitasking, only switch-tasking.%%
+
+**Six Sigma**
+
+- Improve current product & progress to meet customer needs
+- Process improvement and removing defects
+
+**Adaptive**
+
+- Make sure the is a live version of the product. If something is wrong with v3, then have v2 in production.
+- The whole point of adaptive is that the user still uses the product despite small bugs. Just make sure the product is live and supplying value to the user
 
 # Sprint
 
