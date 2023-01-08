@@ -1,7 +1,8 @@
-- Our working window is 18:30 – 21:00, by the window it basically means the time you heavily get hold of your teammate.
-- Stand-up: We hold our 15 min stand-ups on **Monday** and **Thursday** at 19:30.
+Our working window is 18:30 – 21:00, by the window it basically means the time you heavily get hold of your teammate.
 
-## Agile
+Stand-up: We hold our 15 min stand-ups on **Monday** and **Thursday** at 19:30.
+
+### Agile
 
 We have a month’s planning.
 

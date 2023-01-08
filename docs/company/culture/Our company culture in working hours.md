@@ -4,20 +4,13 @@ The will be contribution leader board at individual level and team level. The to
 
 ## Companies Year Timetable
 
-- **February – June**
-  - July [[Ma2]](#\_msocom_2) (Frizz) – Analysis and debts and PR etc.
-    - **Business Announcement**
-      - The company is on Frizz but management is still working assessing work done and in preparation for upcoming work.
-      - Product owners finishing up their specs with
-      - Mid-Year Transfer Window
-  - June - white space belongs to the company, we will have events and tough debates Q&A , safe space
-- **August – November**
-  - November - white space belongs to the company, we will have events and tough debates Q&A , safe space
-- **December (Frizz)**
-  - The last sprint of the year will be more on work done, closing off [[Ma3]](#\_msocom_3) things before heading for holidays.
-- **January – Business /Preparations**
-  - Transfer Window
-  - Announcements
+| Year              | Timetable                                                        |
+| ----------------- | ---------------------------------------------------------------- |
+| February - June   | Frizz, analyzing debts and PR, product owners finishing up specs |
+| June              | Mid-Year Transfer Window, events and Q&A sessions                |
+| August - November | White space, events and Q&A sessions                             |
+| December          | Frizz, closing off tasks                                         |
+| January           | Business/preparations, Transfer Window, announcements            |
 
 ## International
 
@@ -29,30 +22,37 @@ We utilize the whole day during the weekJ, and management and devOps it is 24/7
 
 The mind-set in the company is that we have our houses in order and meet due dates. When you have your house in Order, during your white space you study, you will be able to measure and size your tickets very well and meet expectations.
 
-- Weekdays
-  - Shifts [[Ma4]](#\_msocom_4)
-  - Morning
-  - Afternoon
-  - Night
-- We will have teams that will work night-shift. We are playing catch up as Africa building our own products.
-- Also have international offices, have teams around the world. When other close the office other open shop. 360 development throw out the year. Yes the will be exceptions.
-- Weekends (Optional)
-  - The office is still open, if maybe you want to finish your work then be free for the rest of the sprint. We all about freedom within the company , just communicate with you teammates
+**Weekdays**
+
+- Shifts [[Ma4]](#\_msocom_4)
+- Morning
+- Afternoon
+- Night
+
+  We will have teams that will work night-shift. We are playing catch up as Africa building our own products.
+  Also have international offices, have teams around the world. When other close the office other open shop. 360 development throw out the year. Yes the will be exceptions.
+  Weekends (Optional)
+  The office is still open, if maybe you want to finish your work then be free for the rest of the sprint. We all about freedom within the company , just communicate with you teammates
 
 ## Company whitespaces
 
-- Internal company whitespace, this only means the company will host events, no one is forced to attend. Retro Forums debate
-  - April and October
-- Public company whitespaces, announcements and upcoming features and new development.
-  - June and December
+Internal company whitespace, this only means the company will host events, no one is forced to attend. Retro Forums debate
+
+- April and October
+
+Public company whitespaces, announcements and upcoming features and new development.
+
+- June and December
 
 ## Transfer Window
 
 Movement within the company, people changing teams or companies within the conglomerate.
 
-- Management will be preparing for new comers and fighting [[Ma5]](#\_msocom_5) for team members. They will exchange and setup new teams.
-- On-boarding for interns
-  - Each manager will fight for an intern.
+Management will be preparing for new comers and fighting [[Ma5]](#\_msocom_5) for team members. They will exchange and setup new teams.
+
+On-boarding for interns
+
+- Each manager will fight for an intern.
 
 # Office 
 
